@@ -3,7 +3,7 @@
 I'm a passionate student developer in my 4th year pursuing a Computer Science and Business Adminstration Double Degree. 🎓 Here's a glimpse into my coding journey:
 
 ## About Me
-- 🔭 Currently working on exciting projects at D2L in the educational learning software 
+- 🔭 Currently working on exciting projects at D2L including the Online Learning Platform, Brightspace
 - 🌱 Always learning and exploring new technologies
 - 👯 Looking to collaborate on innovative projects
 - 💬 Ask me about anything related to coding and tech
