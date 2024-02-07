@@ -40,4 +40,6 @@ I'm a passionate student developer in my 4th year pursuing a Computer Science an
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armeentalwandi/)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=armeentalwandi)](https://git.io/streak-stats)
+
 Let's build something amazing together! 🚀
