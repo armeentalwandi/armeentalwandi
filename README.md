@@ -42,7 +42,7 @@ I'm a passionate student developer in my 4th year pursuing a Computer Science an
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DenverCoder1&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
+    <img src="https://streak-stats.demolab.com?user=armeentalwandi&theme=default" />
 </picture>
 
 Let's build something amazing together! 🚀
